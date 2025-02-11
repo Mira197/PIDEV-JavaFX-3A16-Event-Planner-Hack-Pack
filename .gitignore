@@ -34,5 +34,15 @@ build/
 ### VS Code ###
 .vscode/
 
-### Mac OS ###
-.DS_Store
+
+
+###.xml###
+pom.xml
+## Ignore  and Config Files ###
+*.properties
+*.yml
+*.yaml
+*.json
+*.xml
+
+
